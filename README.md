@@ -2,7 +2,7 @@
 
 Projeto construído no evento da Rocketseat.
 
-[Acesse aqui](https://YuriParise.github.io/nlwEsports)
+[Acesse aqui](https://YuriParise.github.io/nlweSports)
 
 ## Tecnologias 
 
